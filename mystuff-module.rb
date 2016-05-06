@@ -7,9 +7,3 @@ module MyStuff
   # this is just a variable
   APPLE = "Living reflection of a dream"
 end
-
-
-
-# mystuff['strawberry'] # get strawberry from dict
-# MyStuff.strawberry() # get strawberry from the module
-# MyStuff::APPLE # same thing, it's just a variable
